@@ -94,5 +94,5 @@ annotation_frames/
 *.sqlite
 *.sqlite3
 
-.\train.py
-.\main.py
+train.py
+main.py
