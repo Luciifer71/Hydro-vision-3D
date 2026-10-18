@@ -93,3 +93,5 @@ annotation_frames/
 *.db
 *.sqlite
 *.sqlite3
+
+./train.py
